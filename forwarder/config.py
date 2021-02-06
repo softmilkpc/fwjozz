@@ -15,7 +15,7 @@ class Config(object):
 
     # FOR AUTOMATICALLY FORWARDING MESSAGES
     FROM_CHATS = [-479039979]  # List of chat id's to forward messages from
-    TO_CHATS = [-1413336567, -405519826]  # List of chat id's to forward messages to
+    TO_CHATS = [1413336567, -405519826]  # List of chat id's to forward messages to
 
     # FOR WEBHOOKS
     WEBHOOK = False
