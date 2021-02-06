@@ -14,8 +14,8 @@ class Config(object):
     OWNER_ID = "912557966"  # If you dont know, run the bot and do /id in your private chat with the bot
 
     # FOR AUTOMATICALLY FORWARDING MESSAGES
-    FROM_CHATS = [-479039979 ]  # List of chat id's to forward messages from
-    TO_CHATS = [-1257954112, -1413336567, -405519826, -1452921309, -1409061137]  # List of chat id's to forward messages to
+    FROM_CHATS = [-479039979]  # List of chat id's to forward messages from
+    TO_CHATS = [-1413336567, -405519826]  # List of chat id's to forward messages to
 
     # FOR WEBHOOKS
     WEBHOOK = False
